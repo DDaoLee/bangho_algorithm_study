@@ -11,7 +11,7 @@ public class B3986_DDaoLee_Q2 {
         // 입력을 받기 위한 BufferedReader 객체 생성
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         
-        // 테스트 케이스의 개수 N을 입력받음
+        // 테스트 케이스의 개수 N을 입력
         int N = Integer.parseInt(br.readLine());
 
         String text;

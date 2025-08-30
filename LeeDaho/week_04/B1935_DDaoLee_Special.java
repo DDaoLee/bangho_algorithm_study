@@ -11,7 +11,7 @@ public class B1935_DDaoLee_Special {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         
-        // 피연산자의 개수 N을 입력받음
+        // 피연산자의 개수 N을 입력
         int N = Integer.parseInt(br.readLine());
         
         // 피연산자 값을 저장할 배열 생성

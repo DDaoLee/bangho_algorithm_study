@@ -52,7 +52,7 @@ public class B10828_DDaoLee_Q0_Array {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
 
-        // 명령어의 개수 N을 입력받음
+        // 명령어의 개수 N을 입력
         int N = Integer.parseInt(br.readLine());
         // 크기가 10000인 스택 생성
         MyStack myStack = new MyStack(10000);

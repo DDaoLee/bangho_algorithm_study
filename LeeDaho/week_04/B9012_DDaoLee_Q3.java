@@ -10,7 +10,7 @@ public class B9012_DDaoLee_Q3 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
 
-        // 테스트 케이스의 개수 T를 입력받음
+        // 테스트 케이스의 개수 T를 입력
         int T = Integer.parseInt(br.readLine());
 
         String data;

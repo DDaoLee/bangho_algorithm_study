@@ -14,7 +14,7 @@ public class B1874_DDaoLee_Q4 {
         // 스택 생성
         Stack<Integer> stack = new Stack<>();
 
-        // 입력 값인 n을 읽어옴 (스택에 들어갈 숫자의 개수)
+        // 스택에 들어갈 숫자의 개수를 입력
         int n = Integer.parseInt(br.readLine());
         
         // arr 배열에 목표 숫자들을 입력받음

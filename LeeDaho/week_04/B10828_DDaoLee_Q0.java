@@ -7,9 +7,10 @@ import java.util.StringTokenizer;
 
 public class B10828_DDaoLee_Q0 {
     public static void main(String[] args) throws IOException {
+
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         
-        // 명령어의 개수 N을 입력받음
+        // 명령어의 개수 N을 입력
         int N = Integer.parseInt(br.readLine());
 
         // stack 배열을 10000으로 생성하고, 인덱스를 -1로 초기화
