@@ -10,28 +10,29 @@ import java.util.StringTokenizer;
 // ListIteratorfkd StringBuilder를 둘 다 사용하지 않으면 시간초과, 실제로 겪은 일 *^^*
 public class B1406_DDaoLee_Q4 {
 
-    public static void operateCommand( ListIterator<Character> cursor, StringTokenizer st){
+    // 입력에 따라 커서(ListIterator<Character>)와 문자열(LinkedList<Character>)을 조작하는 메서드
+    public static void operateCommand( ListIterator<Character> iter, StringTokenizer st){
         char cmd = st.nextToken().charAt(0); // 명령어 첫 글자 추출
 
         switch (cmd) {
             case 'L': // 커서를 왼쪽으로 이동
-                if(cursor.hasPrevious()) cursor.previous();
+                if(iter.hasPrevious()) iter.previous();
                 break;
 
             case 'D': // 커서를 오른쪽으로 이동
-                if(cursor.hasNext()) cursor.next();
+                if(iter.hasNext()) iter.next();
                 break;
 
             case 'B': // 커서 왼쪽 문자 삭제
-                if(cursor.hasPrevious()) {
-                    cursor.previous();
-                    cursor.remove();    
+                if(iter.hasPrevious()) {
+                    iter.previous();
+                    iter.remove();    
                 }
                 break;
 
             case 'P': // 커서 왼쪽에 문자 삽입
                 char ch = st.nextToken().charAt(0);
-                cursor.add(ch);
+                iter.add(ch);
                 break;
         }
     }
