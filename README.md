@@ -25,11 +25,11 @@
 
 | 주차 | 기간 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| WEEK_04 | 8월 4주차<br>(25일 ~ 31일) | 스택 | <p align=left> 0️⃣ [스택](https://www.acmicpc.net/problem/10828) <br>  1️⃣ [제로](https://www.acmicpc.net/problem/10773) <br> 2️⃣ [좋은 단어](https://www.acmicpc.net/problem/3986) <br> 3️⃣ [괄호](https://www.acmicpc.net/problem/9012) <br> 4️⃣ [스택 수열](https://www.acmicpc.net/problem/1874)  <br> 5️⃣ [쇠막대기](https://www.acmicpc.net/problem/10799) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br>  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> </p> | <p align=left> 0️⃣ 스택 구현을 통한 개념잡기 <br> 1️⃣ ~ 5️⃣ 스택 응용 문제  |
+| WEEK_05 | 9월 1주차<br>(1일 ~ 7일) | 큐/덱 | <p align=left> 0️⃣ [큐](https://www.acmicpc.net/problem/10845) <br>  1️⃣ [카드 2](https://www.acmicpc.net/problem/2164) <br> 2️⃣ [덱](https://www.acmicpc.net/problem/10866) <br> 3️⃣ [회전하는 큐](https://www.acmicpc.net/problem/1021) <br> 4️⃣ [풍선 터트리기](https://www.acmicpc.net/problem/2346)  <br> 5️⃣ [트럭](https://www.acmicpc.net/problem/13335) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br>  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> </p> | <p align=left> 0️⃣ 스택 구현을 통한 개념잡기 <br> 1️⃣ ~ 5️⃣ 스택 응용 문제  |
   
-| 🐛 다음주 스페샬 문제(WEEK_04) 🐛 | 난이도 | 비고 |
+| 🐛 이번주 스페샬 문제(WEEK_05) 🐛 | 난이도 | 비고 |
 |:-----------------:|:----:|:----:|
-| *️⃣[후위 표기식2](https://www.acmicpc.net/problem/1935)*️⃣  |  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | 다들 대학 전공에서 한번쯤 들어보시지 않았슴까??<br> * Q: 왜 1이 아니고 2인가요? <br> * A :[후위표기식1](https://www.acmicpc.net/problem/1918)(<img height="20px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>)은 아예 후위표기식을 <br>구현해야해서 넘 어려워요 |
+| *️⃣[Router](https://www.acmicpc.net/problem/15825)*️⃣  |  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | 현중사님 라우팅좀 해주세요 |
 
 
 ## 🧑🏻‍💻 진행 상황
@@ -48,8 +48,8 @@
 
 | 일자 | 문제 | KimJiseok | AhnSuho | LeeDaho | KimDoyun |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:| 
-| WEEK_04  | 0️⃣<br>1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |    ✅<br>✅<br>✅<br>✅<br>✅<br>✅     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |   
-| WEEK_04 SPECIAL  | *️⃣  |    ❌    |     ❌     |     ✅     |     ❌     |   
+| WEEK_05  | 0️⃣<br>1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |   
+| WEEK_05 SPECIAL  | *️⃣  |    ❌    |     ❌     |     ❌     |     ❌     |   
 ---
 
 <br>
