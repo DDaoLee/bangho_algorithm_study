@@ -29,7 +29,7 @@
   
 | 🐛 이번주 스페샬 문제(WEEK_05) 🐛 | 난이도 | 비고 |
 |:-----------------:|:----:|:----:|
-| *️⃣[Router](https://www.acmicpc.net/problem/15825)*️⃣  |  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | 현중사님 라우팅좀 해주세요 |
+| *️⃣[Router](https://www.acmicpc.net/problem/15828)*️⃣  |  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | 현중사님 라우팅좀 해주세요 |
 
 
 ## 🧑🏻‍💻 진행 상황
