@@ -41,16 +41,16 @@ public class B13335_DDaoLee_Q5 {
         int bridgeWeight = 0;    // 다리 위 트럭들의 총 무게
         Deque<Truck> bridge = new ArrayDeque<>(); // 다리 위 트럭들을 나타내는 덱
 
-        // 대기 중인 트럭 또는 다리 위 트럭이 있을 때까지 반복
+        // 대기 중인 트럭 및 다리 위 트럭이 없을 때까지 반복
         while (!trucks.isEmpty() || !bridge.isEmpty()) {
-            time++; // 1초 경과
+            time++; // 1초 단위로 로직 수행
 
             // 다리 위 모든 트럭의 이동 거리 1 증가
             for (Truck t : bridge) {
                 t.distance++;
             }
 
-            // 다리 위 첫 번째 트럭이 다리를 완전히 건넜으면 다리에서 제거
+            // 다리 위 트럭이 다리를 완전히 건넜으면 다리에서 제거
             if (!bridge.isEmpty() && bridge.peekFirst().distance > w) {
                 bridgeWeight -= bridge.pollFirst().weight; // 다리 하중에서 제거
             }
