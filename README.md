@@ -25,11 +25,11 @@
 
 | 주차 | 기간 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| WEEK_05 | 9월 1주차<br>(1일 ~ 7일) | 큐/덱 | <p align=left> 0️⃣ [큐](https://www.acmicpc.net/problem/10845) <br>  1️⃣ [카드 2](https://www.acmicpc.net/problem/2164) <br> 2️⃣ [덱](https://www.acmicpc.net/problem/10866) <br> 3️⃣ [회전하는 큐](https://www.acmicpc.net/problem/1021) <br> 4️⃣ [풍선 터트리기](https://www.acmicpc.net/problem/2346)  <br> 5️⃣ [트럭](https://www.acmicpc.net/problem/13335) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br>  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> </p> | <p align=left> 0️⃣ ~ 1️⃣ 큐 <br> 2️⃣ ~ 3️⃣ 덱 <br> 4️⃣ ~ 5️⃣ 뭘까~용   |
+| WEEK_06 | 9월 2주차<br>(8일 ~ 14일) | 해시맵 | <p align=left> 0️⃣ [회사에 있는 사람](https://www.acmicpc.net/problem/7785) <br>  1️⃣ [비밀번호 찾기](https://www.acmicpc.net/problem/17219) <br> 2️⃣ [파일 정리](https://www.acmicpc.net/problem/20291) <br> 3️⃣ [패션왕 신해빈](https://www.acmicpc.net/problem/9375) <br> 4️⃣ [수강신청](https://www.acmicpc.net/problem/13414)  <br> 5️⃣ [추월](https://www.acmicpc.net/problem/2002) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br>  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> </p> | <p align=left> 0️⃣ ~ 5️⃣ 전부 해시맵   |
   
-| 🐛 이번주 스페샬 문제(WEEK_05) 🐛 | 난이도 | 비고 |
+| 🐛 이번주 스페샬 문제(WEEK_06) 🐛 | 난이도 | 비고 |
 |:-----------------:|:----:|:----:|
-| *️⃣[Router](https://www.acmicpc.net/problem/15828)*️⃣  |  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | 현중사님 라우팅좀 해주세요 |
+| *️⃣[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)*️⃣  |  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | 저 포켓몬 씰에서 디아루가 나옴 ㄹㅇ |
 
 
 ## 🧑🏻‍💻 진행 상황
@@ -48,8 +48,8 @@
 
 | 일자 | 문제 | KimJiseok | AhnSuho | LeeDaho | KimDoyun |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:| 
-| WEEK_05  | 0️⃣<br>1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |   
-| WEEK_05 SPECIAL  | *️⃣  |    ❌    |     ❌     |     ❌     |     ❌     |   
+| WEEK_06  | 0️⃣<br>1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |   
+| WEEK_06 SPECIAL  | *️⃣  |    ❌    |     ❌     |     ❌     |     ❌     |   
 ---
 
 <br>
