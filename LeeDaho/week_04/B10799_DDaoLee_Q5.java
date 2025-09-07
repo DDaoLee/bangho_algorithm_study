@@ -7,7 +7,6 @@ import java.util.Stack;
 
 public class B10799_DDaoLee_Q5 {
     public static void main(String[] args) throws IOException{
-        // 입력을 받기 위한 BufferedReader 객체 생성
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         // 스택 생성
         Stack<Character> stack = new Stack<>();
