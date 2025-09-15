@@ -25,11 +25,9 @@
 
 | 주차 | 기간 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| WEEK_06 | 9월 2주차<br>(8일 ~ 14일) | 해시맵 | <p align=left> 0️⃣ [회사에 있는 사람](https://www.acmicpc.net/problem/7785) <br>  1️⃣ [비밀번호 찾기](https://www.acmicpc.net/problem/17219) <br> 2️⃣ [파일 정리](https://www.acmicpc.net/problem/20291) <br> 3️⃣ [패션왕 신해빈](https://www.acmicpc.net/problem/9375) <br> 4️⃣ [수강신청](https://www.acmicpc.net/problem/13414)  <br> 5️⃣ [추월](https://www.acmicpc.net/problem/2002) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br>  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> </p> | <p align=left> 0️⃣ ~ 5️⃣ 전부 해시맵   |
+| WEEK_07 | 9월 3~4주차<br>(15일 ~ 28일) | ? | <p align=left> 1️⃣ [탑](https://www.acmicpc.net/problem/2493) & [오큰수](https://www.acmicpc.net/problem/17298) <br> 2️⃣ [AC](https://www.acmicpc.net/problem/5430) <br> 3️⃣ [PPAP](https://www.acmicpc.net/problem/16120) & [문자열 폭발](https://www.acmicpc.net/problem/9935)<br> 4️⃣ [무한수열](https://www.acmicpc.net/problem/1351)  <br> 5️⃣ [뱀](https://www.acmicpc.net/problem/3190) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> & <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br>  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> & <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>  <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> </p> | <p align=left> 번호 하나에 문제 2개면 <br> 동일 유형이라는 뜻. <br> 유형은 알고 하면 재미없어서 <br> 일부러 명시해두지 않았습니다.   |
   
-| 🐛 이번주 스페샬 문제(WEEK_06) 🐛 | 난이도 | 비고 |
-|:-----------------:|:----:|:----:|
-| *️⃣[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)*️⃣  |  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | 저 포켓몬 씰에서 디아루가 나옴 ㄹㅇ |
+- 스페셜 문제는 없습니다. 다풀면 다행
 
 
 ## 🧑🏻‍💻 진행 상황
@@ -48,8 +46,7 @@
 
 | 일자 | 문제 | KimJiseok | AhnSuho | LeeDaho | KimDoyun |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:| 
-| WEEK_06  | 0️⃣<br>1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |   
-| WEEK_06 SPECIAL  | *️⃣  |    ❌    |     ❌     |     ❌     |     ❌     |   
+| WEEK_07  | 1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌     |    ❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌     |   
 ---
 
 <br>
