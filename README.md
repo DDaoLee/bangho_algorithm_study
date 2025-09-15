@@ -31,6 +31,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 | WEEK_06 ~ 07 SPECIAL | 스택/큐/덱 | <p align=left> *️⃣[PPAP](https://www.acmicpc.net/problem/16120)*️⃣ </p> |   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | I Have a Pen ~ I Have an Apple ~|
 
+- 이번주는 밥쏨 다풀면..
+
 
 ## 🧑🏻‍💻 진행 상황
 
