@@ -27,7 +27,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | WEEK_07 | 9월 3~4주차<br>(15일 ~ 28일) | ? | <p align=left> 1️⃣ [탑](https://www.acmicpc.net/problem/2493) & [오큰수](https://www.acmicpc.net/problem/17298) <br> 2️⃣ [AC](https://www.acmicpc.net/problem/5430) <br> 3️⃣ [PPAP](https://www.acmicpc.net/problem/16120) & [문자열 폭발](https://www.acmicpc.net/problem/9935)<br> 4️⃣ [무한수열](https://www.acmicpc.net/problem/1351)  <br> 5️⃣ [뱀](https://www.acmicpc.net/problem/3190) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> & <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br>  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> & <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>  <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> </p> | <p align=left> 번호 하나에 문제 2개면 <br> 동일 유형이라는 뜻. <br> 유형을 알고 풀면 재미없어서 <br> 일부러 명시해두지 않았습니다.   |
   
-- 스페셜 문제는 없습니다. 보실진 모르겠지만, 이번주에는 다풀면 밥사드림..
+- 이번주 스페셜 문제는 없습니다.
 
 
 ## 🧑🏻‍💻 진행 상황
