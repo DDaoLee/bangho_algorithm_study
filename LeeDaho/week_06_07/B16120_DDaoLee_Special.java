@@ -37,7 +37,7 @@ public class B16120_DDaoLee_Special {
 
                 // "PPAP" 패턴이 일치하면 해당 부분을 스택에서 제거
                 if (isPPAP) {
-                    // "PPAP" 패턴에서 'P'만 남기고 나머지 'P', 'P', 'A'를 pop()
+                    // "PPAP" 패턴에서 'P'만 남기고 나머지 'P', 'A', 'P'를 pop()
                     for (int j = 0; j < "PPAP".length() - 1; j++) {
                         stack.pop();
                     }
