@@ -16,7 +16,7 @@ public class B2812_DDaoLee_Q4 {
         int N = Integer.parseInt(st.nextToken());
         int K = Integer.parseInt(st.nextToken());
 
-        // 숫자 문자열 입력받기
+        // 숫자 문자열 입력
         String number = br.readLine();
         
         // 스택을 이용하여 최대 숫자 만들기
