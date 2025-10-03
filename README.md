@@ -50,7 +50,7 @@
 
 | 일자 | 문제 | KimJiseok | AhnSuho | LeeDaho | KimDoyun |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:| 
-| WEEK_06 ~ 07  | 1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣<br>*️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |    ✅<br>✅<br>✅<br>✅<br>❌<br>✅     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |   
+| WEEK_06 ~ 07  | 1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣<br>*️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |    ✅<br>✅<br>✅<br>✅<br>✅<br>✅     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |   
 ---
 
 <br>
