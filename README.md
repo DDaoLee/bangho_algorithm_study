@@ -25,11 +25,7 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|
-| WEEK_07  | BFS | <p align=left> 0️⃣ [DFS와 BFS](https://www.acmicpc.net/problem/1260) <br> 1️⃣ [그림](https://www.acmicpc.net/problem/1926) <br> 2️⃣ [미로 탐색](https://www.acmicpc.net/problem/2178) <br> 3️⃣ [숨바꼭질](https://www.acmicpc.net/problem/1697) <br> 4️⃣ [토마토](https://www.acmicpc.net/problem/7576) <br> 5️⃣ [불!](https://www.acmicpc.net/problem/4179) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>   <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> </p> | <p align=center> DFS는 추후 그래프나 트리를 <br> 배운 후 다루도록 하겠습니다. <br> 0️⃣번 문제를 통해 일단 <br> 개념만 알아두시길 바랍니다.|
-
-| 주차 | 문제 유형 | 문제 | 난이도 | 비고 |
-|:---:|:---:|:---:|:---:|:---:|
-| WEEK_07 SPECIAL | BFS | <p align=left> *️⃣[바이러스](https://www.acmicpc.net/problem/2606)*️⃣ </p> |   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | 압축할 땐 꼭 비번걸기~ |
+| WEEK_07  | BFS | <p align=left> 1️⃣ [그림](https://www.acmicpc.net/problem/1926) <br> 2️⃣ [미로 탐색](https://www.acmicpc.net/problem/2178) <br> 3️⃣ [숨바꼭질](https://www.acmicpc.net/problem/1697) <br> 4️⃣ [토마토](https://www.acmicpc.net/problem/7576) <br> 5️⃣ [불!](https://www.acmicpc.net/problem/4179) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>   <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> </p> | <p align=center> DFS는 추후 그래프나 트리를 <br> 배운 후 다루도록 하겠습니다.|
 
 
 ## 🧑🏻‍💻 진행 상황
@@ -48,7 +44,7 @@
 
 | 일자 | 문제 | KimJiseok | AhnSuho | LeeDaho | KimDoyun |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:| 
-| WEEK_07  | 0️⃣<br>1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣<br>*️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌<br>❌     |   
+| WEEK_07  | 1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌     |   
 ---
 
 <br>
