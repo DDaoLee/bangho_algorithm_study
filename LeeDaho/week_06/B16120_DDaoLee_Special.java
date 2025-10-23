@@ -1,4 +1,4 @@
-package LeeDaho.week_06_07;
+package LeeDaho.week_06;
 
 import java.io.BufferedReader;
 import java.io.IOException;
