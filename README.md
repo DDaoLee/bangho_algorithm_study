@@ -25,7 +25,12 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|
-| WEEK_07  | BFS | <p align=left> 1️⃣ [그림](https://www.acmicpc.net/problem/1926) <br> 2️⃣ [미로 탐색](https://www.acmicpc.net/problem/2178) <br> 3️⃣ [숨바꼭질](https://www.acmicpc.net/problem/1697) <br> 4️⃣ [토마토](https://www.acmicpc.net/problem/7576) <br> 5️⃣ [불!](https://www.acmicpc.net/problem/4179) </p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/><br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>   <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> </p> | <p align=center> DFS는 추후 그래프나 트리를 <br> 배운 후 다루도록 하겠습니다.|
+| WEEK_08  | 재귀 | <p align=left> 0️⃣ [재귀함수가 뭔가요? ](https://www.acmicpc.net/problem/17478) <br> 1️⃣ [종이의 개수](https://www.acmicpc.net/problem/1780) <br> 2️⃣ [색종이 만들기](https://www.acmicpc.net/problem/2630) <br> 3️⃣ [쿼드트리](https://www.acmicpc.net/problem/1992) <br> 4️⃣ [하노이 탑](https://www.acmicpc.net/problem/11729) <br> 5️⃣ [Z](https://www.acmicpc.net/problem/1074)</p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>   <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> </p> | <p align=center> 이번엔 재귀를 학습해봅시다. <br> Q : 왜 점점 문제가 많아지나요? <br> A : 저만 풀어서..?|
+
+
+| 주차 | 문제 유형 | 문제 | 난이도 | 비고 |
+|:---:|:---:|:---:|:---:|:---:|
+| WEEK_08 SPECIAL | 재귀 | <p align=left >*️⃣[별 찍기-10](https://www.acmicpc.net/problem/2447) <br> *️⃣[별 찍기-11](https://www.acmicpc.net/problem/2448) |  <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>| 즐거운 별찍기~ |
 
 
 ## 🧑🏻‍💻 진행 상황
