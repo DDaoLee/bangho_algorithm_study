@@ -25,7 +25,7 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|
-| WEEK_08  | 재귀 | <p align=left> 0️⃣ [재귀함수가 뭔가요? ](https://www.acmicpc.net/problem/17478) <br> 1️⃣ [종이의 개수](https://www.acmicpc.net/problem/1780) <br> 2️⃣ [색종이 만들기](https://www.acmicpc.net/problem/2630) <br> 3️⃣ [쿼드트리](https://www.acmicpc.net/problem/1992) <br> 4️⃣ [하노이 탑](https://www.acmicpc.net/problem/11729) <br> 5️⃣ [Z](https://www.acmicpc.net/problem/1074)</p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>   <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> </p> | <p align=center> 이번엔 재귀를 학습해봅시다. <br> Q : 왜 점점 문제가 많아지나요? <br> A : 저만 풀어서..?|
+| WEEK_08  | 재귀 | <p align=left> 0️⃣ [재귀함수가 뭔가요? ](https://www.acmicpc.net/problem/17478) <br> 1️⃣[색종이 만들기](https://www.acmicpc.net/problem/2630)  <br> 2️⃣ [종이의 개수](https://www.acmicpc.net/problem/1780) <br> 3️⃣ [쿼드트리](https://www.acmicpc.net/problem/1992) <br> 4️⃣ [하노이 탑](https://www.acmicpc.net/problem/11729) <br> 5️⃣ [Z](https://www.acmicpc.net/problem/1074)</p> | <p> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/><br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>   <br>   <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> </p> | <p align=center> 이번엔 재귀를 학습해봅시다. <br> Q : 왜 점점 문제가 많아지나요? <br> A : 저만 풀어서..?|
 
 
 | 주차 | 문제 유형 | 문제 | 난이도 | 비고 |
@@ -49,7 +49,7 @@
 
 | 일자 | 문제 | KimJiseok | AhnSuho | LeeDaho | KimDoyun |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:| 
-| WEEK_07  | 1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣  |    ❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌     |     ✅<br>✅<br>✅<br>✅<br>✅     |     ❌<br>❌<br>❌<br>❌<br>❌     |   
+| WEEK_07  |0️⃣<br>1️⃣<br>2️⃣<br>3️⃣<br>4️⃣<br>5️⃣<br>*️⃣<br> *️⃣ |    ❌<br>❌<br>❌<br>❌<br>❌<br>❌<br>❌<br>❌    |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌<br>❌<br>❌     |     ✅<br>❌<br>✅<br>❌<br>❌<br>❌<br>❌<br>❌     |     ❌<br>❌<br>❌<br>❌<br>❌<br>❌<br>❌<br>❌     |   
 ---
 
 <br>
